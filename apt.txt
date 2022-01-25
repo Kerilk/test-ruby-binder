@@ -1,0 +1,6 @@
+libtool
+libffi-dev
+ruby
+ruby-dev
+make
+libzmq3-dev
